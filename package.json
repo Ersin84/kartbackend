@@ -1,8 +1,8 @@
 {
-  "name": "multikart-backend",
+  "name": "wromo-backend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kartbackend.vercel.app-admin/",
+  "homepage": "http://kartbackend.vercel.app/",
   "dependencies": {
     "availity-reactstrap-validation": "^2.6.0",
     "bootstrap": "^4.3.1",
